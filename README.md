@@ -14,3 +14,6 @@ B.Tech | 4
 Inter | 2
 SSC | 1
 ### PG | 2
+
+### Certificate
+
